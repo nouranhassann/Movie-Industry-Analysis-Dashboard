@@ -1,0 +1,8 @@
+# Data Manipulation
+pandas==2.3.1
+
+# Dashboard Framework
+dash==4.1.0
+
+# Data Visualization
+plotly==6.7.0
