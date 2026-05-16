@@ -82,7 +82,7 @@ The project focuses on answering key business questions like:
 * NumPy
 * Matplotlib / Seaborn
 * Jupyter Notebook
-* Power BI / Streamlit *(if used for dashboard)*
+* Streamlit 
 
 ---
 
